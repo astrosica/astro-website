@@ -1,2 +1,4 @@
-# astro-website
-Website on astro.utoronto.ca department server.
+Astro Website
+========
+
+This repository contains the html code for producing my astro.utoronto.ca/~campbell Department website.
